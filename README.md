@@ -38,8 +38,11 @@ When eyes open → Alarm stops automatically
 Live Display – The frame shows webcam feed and warning message "WAKE UP!" when drowsiness is detected.
 
 **output:**
-when the user is in awake
+if the user is in awake
 <img width="1670" height="979" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/d7a52e1e-4138-449c-8cb1-c155ee9d29ac" />
-when the user is in sleepy
-<img width="1658" height="985" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/c803efee-5db8-4627-9333-32d27f66ebef" />
+
+
+if the user is in drowsy
+
+<img width="1661" height="966" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/187bf40e-cbcf-4bea-a304-7e6711df719d" />
 
